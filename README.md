@@ -43,3 +43,4 @@ Reusable Python scripts for EDA & visualization.
 Project structured for scalability and future predictive modeling.
 
 Dashboard Link: https://github.com/rahulratan12/Sales-Dashboard/blob/main/Screenshot%202025-09-01%20012056.png
+Sales Forecasting: https://github.com/rahulratan12/Super-Sales-Dashboard/blob/main/Sales%20Forecasting%20.png
