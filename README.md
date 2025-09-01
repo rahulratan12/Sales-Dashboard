@@ -13,7 +13,7 @@ Key aspects include:
 3. Teck Stack
 The Dashboard was built using the following tools and technologies:
 . 🖥️ Power BI Desktop -Main Data visulaization Platform used for report creation.
-.🔍 Power Query - Data Transformation and cleaning layer for reshaping and preparing the data 
+. 🔍 Power Query - Data Transformation and cleaning layer for reshaping and preparing the data 
 . 📊 DAX (Data Analysis Expressions) - Used for calculated measures ,dynamic visuals and conditional logic.
 . 📂 File Format - .pbix for development and .png for dashboard previews.
 
@@ -37,10 +37,10 @@ Contains 23 columns including:
 📊 Interactive Dashboards for visual exploration.
 
 6.🌟 Highlights
-End-to-end data cleaning, exploration, and visualization workflow.
-Business-ready dashboards and insights for decision-making.
-Reusable Python scripts for EDA & visualization.
-Project structured for scalability and future predictive modeling.
+.End-to-end data cleaning, exploration, and visualization workflow.
+.Business-ready dashboards and insights for decision-making.
+.Reusable Python scripts for EDA & visualization.
+.Project structured for scalability and future predictive modeling.
 
 Dashboard Link: https://github.com/rahulratan12/Super-Sales-Dashboard/blob/main/Dashboard%20.png
 
